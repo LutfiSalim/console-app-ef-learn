@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppLearnEF", "ConsoleAppLearnEF\ConsoleAppLearnEF.csproj", "{4A62FC11-59C2-4F72-BB2A-1C807C2ADC52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A62FC11-59C2-4F72-BB2A-1C807C2ADC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A62FC11-59C2-4F72-BB2A-1C807C2ADC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A62FC11-59C2-4F72-BB2A-1C807C2ADC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A62FC11-59C2-4F72-BB2A-1C807C2ADC52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4D3C53-6531-453B-803B-D8ACE149D6D6}
+	EndGlobalSection
+EndGlobal
